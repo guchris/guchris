@@ -1,4 +1,3 @@
-[![gucduck.com](https://img.shields.io/badge/-gucduck.com-black?labelColor=yellow&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgdmlld0JveD0iMCAwIDMwMCAzMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIyMC44IDExOS4yQzIxNC4zIDEwNi4yIDIwMS45IDk1LjggMTg2LjkgOTAuMUMxODMuNSA3My43IDE3MC4yIDYwLjMgMTUzLjkgNTcuNUMxMjYuNiA1Mi4yIDEwNC4yIDY1LjUgOTUuNiA4NC43QzY4LjUgODUuOCA0Ny4yIDEwOC4xIDQ3LjIgMTM1LjJDNDUuMSAxNTkuMSA1OSAxODAuOCA4MC4zIDE4OS44QzExMi44IDIwMyAxNDguOCAyMDAuOCAxNzQuNiAxODkuNUMxOTMuNSAxODAuNyAyMDcuMyAxNjQuMiAyMTIuMiAxNDQuOUMyMjAuMiAxNDQuNSAyMjUuNyAxMzYuMyAyMjAuOCAxMTkuMloiIGZpbGw9IndoaXRlIi8+PC9zdmc+&style=flat)](https://gucduck.com)
-
+[![🐤 gucduck.com](https://img.shields.io/badge/🐤%20gucduck.com-black?labelColor=yellow&style=flat)](https://gucduck.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gu-christopher/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gu_christopher)
